@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="postgresql-8.2-512.jdbc2">
+    <CLASSES>
+      <root url="jar://D:/IDEA_jar/postgresql-8.2-512.jdbc2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="IPTV_zabbix_traffic:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/IPTV_zabbix_traffic_jar</output-path>
+    <root id="archive" name="IPTV_zabbix_traffic.jar">
+      <element id="module-output" name="IPTV_zabbix_traffic" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../Crypt_pass/out/artifacts/Crypt_pass_jar/Crypt_pass.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="D:/IDEA_jar/HiveJDBC4.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="D:/IDEA_jar/postgresql-8.2-512.jdbc2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="D:/IDEA_jar/log4j-1.2.17.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="D:/IDEA_jar/ojdbc6.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
